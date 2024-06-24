@@ -4,12 +4,12 @@
  *   contents is not permitted without written authorization.
  *   Offenders will be liable for damages. All rights reserved.
  *---------------------------------------------------------------------------
- *   Purpose: Below code show's the flow of Abstract Keywords and Methods.
- *   Project: Abstract[Class] Person
+ *   Purpose:  Below code show's the flow of Abstract Keywords and Methods.
+ *   Project:  Abstract[Class] Person
  *   Platform: Cross-platform (Windows, macOS, Linux)
  *   Compiler: JDK-22
- *   IDE:  	   Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
- *	 Version: 2024-03 (4.31.0)
+ *   IDE:      Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
+ *   Version:  2024-03 (4.31.0)
  *   Build id: 20240307-1437
  ********************************************************************************************/
 
